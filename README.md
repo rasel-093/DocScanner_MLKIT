@@ -1,0 +1,2 @@
+# DocScanner-MLKIT
+# Screenshots
